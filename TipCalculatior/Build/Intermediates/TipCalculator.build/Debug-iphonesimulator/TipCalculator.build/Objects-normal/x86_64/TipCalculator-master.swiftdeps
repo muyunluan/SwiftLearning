@@ -1,7 +1,7 @@
 version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
 options: "24ab84e4bb6bf53d95ebc87a0d44c635"
-build_time: [507625724, 363249000]
+build_time: [508274702, 666737000]
 inputs:
-  "/Users/FDeng/Desktop/Ayla/Work/iOS/Github-Personal/SwiftLearning/TipCalculatior/TipCalculatior/AppDelegate.swift": [505870630, 0]
-  "/Users/FDeng/Desktop/Ayla/Work/iOS/Github-Personal/SwiftLearning/TipCalculatior/TipCalculatorModel.swift": [506631149, 0]
   "/Users/FDeng/Desktop/Ayla/Work/iOS/Github-Personal/SwiftLearning/TipCalculatior/TipCalculatior/ViewController.swift": [507059910, 0]
+  "/Users/FDeng/Desktop/Ayla/Work/iOS/Github-Personal/SwiftLearning/TipCalculatior/TipCalculatorModel.swift": [506631149, 0]
+  "/Users/FDeng/Desktop/Ayla/Work/iOS/Github-Personal/SwiftLearning/TipCalculatior/TipCalculatior/AppDelegate.swift": [505870630, 0]

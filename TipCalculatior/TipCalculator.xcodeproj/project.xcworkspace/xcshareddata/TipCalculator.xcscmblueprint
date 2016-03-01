@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "25803A7D5F8ED56C93908E5868AD21961DCCA895",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "29821F3896B6C7B1E9B9E2FA8CEB6EC2A96BB5E5" : 0,
+    "25803A7D5F8ED56C93908E5868AD21961DCCA895" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "826B061E-9EE9-4D52-8787-E9439F2FBB5B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "29821F3896B6C7B1E9B9E2FA8CEB6EC2A96BB5E5" : "",
+    "25803A7D5F8ED56C93908E5868AD21961DCCA895" : "SwiftLearning\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TipCalculator",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TipCalculatior\/TipCalculator.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/muyunluan\/SwiftLearning.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "25803A7D5F8ED56C93908E5868AD21961DCCA895"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/muyunluan\/SwiftLearning.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "29821F3896B6C7B1E9B9E2FA8CEB6EC2A96BB5E5"
+    }
+  ]
+}

@@ -184,11 +184,13 @@ speaker.Test?()
 
 //Delegate
 
+//first create a protocol with the events you want to notify
 protocol DateSimulatorDelegate {
     func dateSimulatorDidStart(sim: DateSimulator, a: Speaker1, b: Speaker1)
     func dateSimulatorDidEnd(sim: DateSimulator, a: Speaker1, b: Speaker1)
 }
 
+//Then create a class that conforms to this protocol
 class LoggingDateSimulator: DateSimulatorDelegate {
     func dateSimulatorDidStart(sim: DateSimulator, a: Speaker1, b: Speaker1) {
         print("Date started!")
